@@ -1,0 +1,1 @@
+url = "https://<company_name>.api.accelo.com/oauth2/v0/authorize?client_id=<enter_client_id>&response_type=code&redirect_uri=<enter_redirect_uri>"
